@@ -1,13 +1,13 @@
-<h2 align="left">Hi 👋! My name is Jesus</h2>
+<h1 align="center">Hi 👋! My name is Jesus</h2>
 
-###
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JesusGG208&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesusGG208&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### Languages and tecnhologies
 
 <br clear="both">
 
@@ -67,11 +67,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
 
-###
+### Contributions
 
 <img src="https://raw.githubusercontent.com/JesusGG208/JesusGG208/output/snake.svg" alt="Snake animation" />
 
-###
+### Contacts
 
 <div align="center">
   <a href="jesusggg1634@gmail.com" target="_blank">
