@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesusGG208&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesusGG208&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JesusGG208&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesusGG208&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=JesusGG208&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -69,7 +70,13 @@
 
 ###
 
-<img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/27f1e9b4-971b-4a42-b35b-a98743a656e2/d5ihhg6-9b4d98e3-9c45-482f-bb00-752b5b01b5d5.png/v1/fill/w_900,h_1200/pikachu_painted_pixels_by_a_wild_wat_appeared_d5ihhg6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMCIsInBhdGgiOiJcL2ZcLzI3ZjFlOWI0LTk3MWItNGE0Mi1iMzViLWE5ODc0M2E2NTZlMlwvZDVpaGhnNi05YjRkOThlMy05YzQ1LTQ4MmYtYmIwMC03NTJiNWIwMWI1ZDUucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Urmycqu0u8VeJy4Gec1QJnk7K5RIu4tMMYngkIs_CtA"  />
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JesusGG208/JesusGG208/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JesusGG208/JesusGG208/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JesusGG208/JesusGG208/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -84,12 +91,8 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JesusGG208/JesusGG208/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JesusGG208/JesusGG208/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JesusGG208/JesusGG208/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/27f1e9b4-971b-4a42-b35b-a98743a656e2/d5ihhg6-9b4d98e3-9c45-482f-bb00-752b5b01b5d5.png/v1/fill/w_900,h_1200/pikachu_painted_pixels_by_a_wild_wat_appeared_d5ihhg6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMCIsInBhdGgiOiJcL2ZcLzI3ZjFlOWI0LTk3MWItNGE0Mi1iMzViLWE5ODc0M2E2NTZlMlwvZDVpaGhnNi05YjRkOThlMy05YzQ1LTQ4MmYtYmIwMC03NTJiNWIwMWI1ZDUucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Urmycqu0u8VeJy4Gec1QJnk7K5RIu4tMMYngkIs_CtA"  />
+</div>
 
 ###
