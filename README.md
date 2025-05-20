@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋! My name is Jesus</h2>
 
+### Something about me
+* I studied **Bachillerato of technological sciences** at the IES Seritium for 2 years.
+* I'm currently studying for a **CFGS degree in DAW**. Specifically, I'm doing an internship.
+* I like video games, being with friends and watching movies.
+
 ### GitHub Stats
 
 <div align="center">
