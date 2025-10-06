@@ -86,6 +86,12 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JesusGG208.JesusGG208&"  />
+</div>
+
+###
+
+<div align="center">
   <img height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/27f1e9b4-971b-4a42-b35b-a98743a656e2/d5ihhg6-9b4d98e3-9c45-482f-bb00-752b5b01b5d5.png/v1/fill/w_900,h_1200/pikachu_painted_pixels_by_a_wild_wat_appeared_d5ihhg6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMCIsInBhdGgiOiJcL2ZcLzI3ZjFlOWI0LTk3MWItNGE0Mi1iMzViLWE5ODc0M2E2NTZlMlwvZDVpaGhnNi05YjRkOThlMy05YzQ1LTQ4MmYtYmIwMC03NTJiNWIwMWI1ZDUucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Urmycqu0u8VeJy4Gec1QJnk7K5RIu4tMMYngkIs_CtA"  />
 </div>
 
