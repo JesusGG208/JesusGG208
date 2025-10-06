@@ -2,7 +2,7 @@
 
 ### Something about me
 * I studied a **Bachillerato in Technological Sciences** at IES Seritium for 2 years, and completed an **HND in Web Application Development (DAW)** at IES Francisco Romero Vargas, also for 2 years.
-* Now, I'm studying an **HND in Multiplatform application development (DAM)** at Cited. 
+* Now, I'm studying an **HND in Multiplatform Application Development (DAM)** at Cited. 
 * I like video games, being with friends and watching movies.
 
 ### GitHub Stats
