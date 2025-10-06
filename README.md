@@ -1,18 +1,11 @@
-<h1 align="center">Hi 👋! My name is Jesus</h2>
+<h1 align="center">Hola 👋! Soy Jesús</h2>
 
-### Something about me
-* I studied a **Bachillerato in Technological Sciences** at IES Seritium for 2 years, and completed an **HND in Web Application Development (DAW)** at IES Francisco Romero Vargas, also for 2 years.
-* Now, I'm studying an **HND in Multiplatform Application Development (DAM)** at Cited. 
-* I like video games, being with friends and watching movies.
+### Algo sobre mí
+* Me gradué de **Bachillerato de Ciencias Tecnológicas** en el IES Seritium _(2021 - 2023)_, y me gradué de **CFGS de Desarrollo de Aplicaciones Web (DAW)** en el IES Francisco Romero Vargas _(2023 - 2025)_.
+* Ahora estoy estudiando un **CFGS de Desarrollo de Aplicaciones Multiplataforma** en CITED. 
+* Me gusta jugar videojuegos, quedar con amigos y ver pelis y series.
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesusGG208&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesusGG208&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-### Languages and tecnhologies
+### Lenguajes y herramientas
 
 <br clear="both">
 
@@ -72,11 +65,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
 
-### Contributions
-
 <img src="https://raw.githubusercontent.com/JesusGG208/JesusGG208/output/snake.svg" alt="Snake animation" />
 
-### Contacts
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JesusGG208&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesusGG208&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+### Contactos
 
 <div align="center">
   <a href="mailto:jesusggg1634@gmail.com" target="_blank">
