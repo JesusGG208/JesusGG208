@@ -13,7 +13,7 @@
 ### Algo sobre mí
 * Me gradué de **Bachillerato de Ciencias Tecnológicas** en el IES Seritium _(2021 - 2023)_, y me gradué de **CFGS de Desarrollo de Aplicaciones Web (DAW)** en el IES Francisco Romero Vargas _(2023 - 2025)_.
 * Ahora estoy estudiando un **CFGS de Desarrollo de Aplicaciones Multiplataforma** en Cited y SinergiaFP. 
-* Me gusta jugar videojuegos, quedar con amigos, ver pelis y series y escuchar música (Jamiroquai, Extremoduro, Michael Jackson, Gorillaz, Hombres G ...). 
+* Me gusta jugar videojuegos, quedar con amigos, ver pelis y series y escuchar música (Jamiroquai, Extremoduro, Michael Jackson, Gorillaz, Hombres G ...).
 
 ### Lenguajes y herramientas
 
